@@ -30,7 +30,7 @@ export const Policies = () => {
 
                 <Box sx={{ width: "100%", m: 2 }}>
 
-                    <Typography sx={{ width: "100%" }}>Header</Typography>
+                    <Typography sx={{ width: "100%" }}>Title</Typography>
 
                     <TextField id="outlined-basic" variant="outlined" />
 
